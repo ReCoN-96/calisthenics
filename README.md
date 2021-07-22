@@ -1,6 +1,6 @@
 # calisthenics
 
-An app for share my passion for sport and scoped on calisthenics / street workout
+An app for share my passion for sport and focused on calisthenics / street workout
 
 Production: <https://calisthenics.vercel.app>
 
