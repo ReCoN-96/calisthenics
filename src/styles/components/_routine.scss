@@ -1,0 +1,14 @@
+.routine__image {
+  height: 40rem;
+  width: 100%;
+  object-fit: cover;
+}
+
+.routine__title {
+  font-size: $font-size-large;
+}
+
+.routine__text {
+  font-size: $font-size-medium;
+  margin-bottom: $s-size;
+}

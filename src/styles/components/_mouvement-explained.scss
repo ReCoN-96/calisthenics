@@ -1,0 +1,32 @@
+.mouvement-explained__banner-wrapper {
+  display: flex;
+  justify-content: center;
+  img {
+    width: 100%;
+    height: 50rem;
+    object-fit: contain;
+  }
+}
+
+.mouvement-explained__main-title {
+  font-size: $font-size-large;
+}
+
+.mouvement-explained__title {
+  color: $blue;
+}
+
+.mouvement-explained__text {
+  font-size: $font-size-medium;
+}
+
+.mouvement-explained__img-worked-muscle-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: nowrap;
+  img {
+    max-width: 50rem;
+    object-fit: contain;
+  }
+}

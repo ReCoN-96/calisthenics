@@ -1,17 +1,17 @@
 <template>
-  <TheHeader />
-  <RoutineList />
+  <the-header />
+  <not-found />
 </template>
 
 <script>
 import TheHeader from '@/components/TheHeader.vue';
-import RoutineList from '@/components/RoutineList.vue';
+import NotFound from '@/components/NotFound.vue';
 
 export default {
-  name: 'Home',
+  name: 'PageNotFound',
   components: {
     TheHeader,
-    RoutineList,
+    NotFound,
   },
 };
 </script>
